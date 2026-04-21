@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(export PATH=\"$PATH:/usr/local/bin:/opt/homebrew/bin\")",
+      "Read(//usr/local/bin/**)",
+      "Read(//Users/nicholasdaley/.nvm/versions/**)",
+      "Bash(brew install *)",
+      "Bash(npm run *)",
+      "Skill(claude-api)"
+    ]
+  }
+}
